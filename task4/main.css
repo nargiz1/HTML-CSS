@@ -1,0 +1,19 @@
+#div1 .city{
+    font-size: 70px;
+    box-sizing: border-box;
+    width: 300px;
+    background-color: lightblue;
+    padding:10px 150px 10px 5px;
+    margin: 10px 530px 10px;
+}
+#div1 #Baki, #Gence{
+    color: red;
+}    
+#div1 #Quba{
+    color: green;
+}
+ul li.first{
+    list-style: disc;
+    font-size: 30px;
+    margin: 20px 560px 20px;
+}
